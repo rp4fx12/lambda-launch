@@ -1,0 +1,23 @@
+{
+  "name": "x-launch",
+  "version": "1.0.0",
+  "description": "AWS Lambda TODO right stuff # x-launch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rp4fx12/x-launch.git"
+  },
+  "author": "Rohan Prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rp4fx12/x-launch/issues"
+  },
+  "homepage": "https://github.com/rp4fx12/x-launch#readme",
+  "devDependencies": {
+    "aws-sdk": "^2.97.0",
+    "bluebird": "^3.5.0"
+  }
+}
